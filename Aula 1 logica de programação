@@ -1,0 +1,23 @@
+Lógica de programação
+
+É a área da programação em que estudamos as estrututras básicas
+que compõe qualquer código de programação. Para escrever esses códigos,
+utilizaremos algoritmos. Algoritmos são uma sequencia de passos finitos
+que quando bem organizados e estruturados resolvem a solução de um problema.
+----------------------------------------------------------------------------
+Algoritmo atravessarRua
+Olhar para direita
+Olha para a esquerda
+Se estiver vindo carro, não atravessar
+Se não estiver vindo carro, atravessar
+Fimalgoritmo
+---------------------------------------------------------------------------
+Um Algoritmo pode ser escrito de diversas maneiras diferentes:
+
+Algoritmo atravessarRua
+Olhar para esquerda
+Olha para a direta
+Se não estiver vindo carro, atravessar
+Se estiver vindo carro, não atravessar
+
+Fimalgoritmo
