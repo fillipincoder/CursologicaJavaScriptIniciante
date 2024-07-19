@@ -1,0 +1,14 @@
+Variaveis
+
+Variaveis são espaços reservados na memoria do computador
+criados para se guardar determinado tipo de dado. Na programação
+esses dados são diferenciados pelos seus TIPO PRIMITIVOS.
+
+Inteiros – Vai armazenar um valor inteiro: ex: ,5, 10 , 520, 985
+
+Real(float) – Vai armazenar um valor decimal. 1.5 , 20.89 , 15.87, 4.8 obs: Não se deve separar as casas decimais por virgula, apenas ponto.
+
+Caractere – Vai armazenar letras, palavras, textos (String). Ex: “Victor”, “F”, “Logica de programação é legal”.
+Obs: Todo texto na programação deve ser colocado entre aspas duplas, não duas aspas simples.
+
+Lógico – Vai armazenar variáveis do tipo lógico(boolenos). Verdadeiro ou falso
