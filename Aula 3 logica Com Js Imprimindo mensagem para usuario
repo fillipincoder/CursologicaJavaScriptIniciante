@@ -1,0 +1,14 @@
+var numero = 23          
+var nome = "Fillipe"
+var dirige = true
+
+console.log(numero)
+console.log(nome)
+console.log(dirige)
+
+Mensagem sendo impressa no cmd para o usuario
+23
+Fillipe
+True
+End process
+
