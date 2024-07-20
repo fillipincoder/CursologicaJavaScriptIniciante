@@ -1,0 +1,11 @@
+var idade = 23  
+var nome = "fillipe"
+var dirige = true
+
+
+
+console.log(`O nome informado foi ${nome}, a idade é ${idade}. Dirige: ${dirige} `)
+
+OUTPUT
+########InfoStartProcess####
+O nome informado foi fillipe, a idade informada foi 23, Dirige:true
