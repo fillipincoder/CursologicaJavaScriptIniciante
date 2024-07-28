@@ -1,0 +1,27 @@
+Operadores Aritmeticos
+
+A =5
+
+B =2
+
+Adicao + A + B 7
+
+Subtracao - A - B 3
+
+Multiplicacao * A * B 10
+
+Divisao / A / B 2.5
+
+Exponenciaçao ** A ^ B 25
+
+Módulo(Resto) % A % B 1
+
+Ordem de Precedencia
+
+Parentesis ( )
+
+Exponenciacao **
+
+Multiplicacao/Divisao */
+
+Adicao/Subtracao +-
